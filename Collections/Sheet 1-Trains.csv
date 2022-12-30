@@ -1,0 +1,3 @@
+Train_NO,Fare,Source,Destination,Weekdays_available
+T001,10.00,Ruwi,Seeb,Sunday
+T002,10.00,Seeb,Ruwi,Monday

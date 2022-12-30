@@ -1,0 +1,152 @@
+{
+    "train_collection":{
+        "Trains":[
+            {
+                "Train_NO":"T001",
+            "Fare":"10.00$",
+            "Source":"Ruwi",
+            "Destination":"Seeb",
+            "Weekdays_available":"Sunday"
+        },
+        { 
+            "Train_NO":"T002",
+            "Fare":"10.00$",
+            "Source":"Seeb", 
+            "Destination":"Ruwi", 
+            "Weekdays_available":"Monday"
+        }
+        ],
+        "Train_Status":[
+            {
+                "Seats_available": 8,
+                "seats_booked": 12
+            },
+            {
+                "Seats_available": 7,
+                "seats_booked": 13
+            },
+            {
+                "Seats_available": 9,
+                "seats_booked": 11
+            },
+            {
+                "Seats_available": 1,
+                "seats_booked": 10
+            },
+            {
+                "Seats_available": 1,
+                "seats_booked": 9 
+            },
+            {
+                "Seats_available": 1,
+                "seats_booked": 8 
+            },
+            {
+                "Seats_available": 1,
+                "seats_booked": 7 
+            },
+            {
+                "Seats_available": 1,
+                "seats_booked": 6 
+            },
+            {
+                "Seats_available": 1,
+                "seats_booked": 5 
+            }
+        ],
+        "Passanger":[
+            {
+                "Passanger_ID": 123,
+                "Passanger_name": "Ali"     ,
+                "Passenger_address": "Bosher"   ,
+                "Passanger_gender": "Male"  
+            },
+            {
+                "Passanger_ID": 124,
+                "Passanger_name": "Haneen"  ,
+                "Passenger_address": "Alkhuwair",
+                "Passanger_gender": "Female"
+            },
+            {
+                "Passanger_ID": 125,
+                "Passanger_name": "Said"    ,
+                "Passenger_address": "Bosher"   ,
+                "Passanger_gender": "Male"  
+            },
+            {
+                "Passanger_ID": 126,
+                "Passanger_name": "Muhamamd",
+                "Passenger_address": "Alkhud"   ,
+                "Passanger_gender": "Male"  
+            },
+            {
+                "Passanger_ID": 127,
+                "Passanger_name": "Khalfan" ,
+                "Passenger_address": "Azaiba"   ,
+                "Passanger_gender": "Female"
+            },
+            {
+                "Passanger_ID": 128,
+                "Passanger_name": "yaqdan"  ,
+                "Passenger_address": "Azaiba"   ,
+                "Passanger_gender": "Male"  
+            },
+            {
+                "Passanger_ID": 129,
+                "Passanger_name": "Ammar"   ,
+                "Passenger_address": "Al Amerat",
+                "Passanger_gender": "Male"  
+            },
+            {
+                "Passanger_ID": 130,
+                "Passanger_name": "Yahya"   ,
+                "Passenger_address": "Alkhuwair",
+                "Passanger_gender": "Male"  
+            },
+            {
+                "Passanger_ID": 131,
+                "Passanger_name": "Rahma"   ,
+                "Passenger_address": "Alkhuwair",
+                "Passanger_gender": "Male"  
+            }
+        ],
+        "Ticket":[
+            {
+                "Ticket_ID": 89,
+                "Ticket_Status": "Confirm"    
+            },
+            {
+                "Ticket_ID": 90,
+                "Ticket_Status": "Not Confirm"
+            },
+            {
+                "Ticket_ID": 91,
+                "Ticket_Status": "Confirm"    
+            },
+            {
+                "Ticket_ID": 92,
+                "Ticket_Status": "Confirm"    
+            },
+            {
+                "Ticket_ID": 93,
+                "Ticket_Status": "Confirm"    
+            },
+            {
+                "Ticket_ID": 94,
+                "Ticket_Status": "Confirm"    
+            },
+            {
+                "Ticket_ID": 95,
+                "Ticket_Status": "Confirm"    
+            },
+            {
+                "Ticket_ID": 96,
+                "Ticket_Status": "Confirm"    
+            },
+            {
+                "Ticket_ID": 97,
+                "Ticket_Status": "Not Confirm"
+            }
+        ]
+    }
+}

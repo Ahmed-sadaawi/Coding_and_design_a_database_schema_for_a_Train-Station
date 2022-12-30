@@ -1,0 +1,10 @@
+Train_NO,Fare,Source,Destination,Weekdays_available,Seats_available,seats_booked,Passanger_ID,Passanger_name,Passanger_address,Passanger_gender,Ticket_ID,Ticket_Status
+T001, 10.00 $,Ruwi,Seeb,Sunday,12,8,123,Ali,Bosher,Male,89,Confirm
+T002, 10.00 $,Seeb,Ruwi,Monday,13,7,124,Haneen,Alkhuwair,Female,90,Not Confirm
+T001, 10.00 $,Ruwi,Seeb,Sunday,11,9,125,Said,Bosher,Male,91,Confirm
+T001, 10.00 $,Ruwi,Seeb,Sunday,10,10,126,Muhamamd,Alkhud,Male,92,Confirm
+T001, 10.00 $,Ruwi,Seeb,Sunday,9,11,127,Khalfan,Azaiba,Female,93,Confirm
+T001, 10.00 $,Ruwi,Seeb,Sunday,8,12,128,yaqdan,Azaiba,Male,94,Confirm
+T001, 10.00 $,Ruwi,Seeb,Sunday,7,13,129,Ammar,Al Amerat,Male,95,Confirm
+T001, 10.00 $,Ruwi,Seeb,Sunday,6,14,130,Yahya,Alkhuwair,Male,96,Confirm
+T001, 10.00 $,Ruwi,Seeb,Sunday,5,15,131,Rahma,Alkhuwair,Male,97,Not Confirm
